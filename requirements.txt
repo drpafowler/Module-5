@@ -1,0 +1,6 @@
+# List of dependencies
+ipython
+numpy
+pandas
+matplotlib
+scipy
